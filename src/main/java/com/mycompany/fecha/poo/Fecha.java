@@ -4,7 +4,7 @@ public class Fecha {
     private int dia;
     private int mes;
     private int ano;
-
+//////////////////////////////////////////////////////  Este codigo es de complejidad constante o(1)/////////////////////////
     public Fecha(int dia, int mes, int ano) {
         this.dia = dia;
         this.mes = mes;

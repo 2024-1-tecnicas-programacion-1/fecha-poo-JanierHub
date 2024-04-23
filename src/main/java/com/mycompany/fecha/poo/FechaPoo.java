@@ -5,7 +5,7 @@ public class FechaPoo {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Solicitar al usuario los datos de la fecha
+        // Este codigo es de complejidad o(1) lo cual es constante ////////
         System.out.print("Ingrese el día: ");
         int dia = scanner.nextInt();
         System.out.print("Ingrese el mes: ");
